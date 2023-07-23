@@ -1,1 +1,1 @@
-https://covid19-tracker-app-irad.web.app/
+https://react-covid19-tracker-app-1.vercel.app/
